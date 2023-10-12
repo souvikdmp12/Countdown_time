@@ -1,0 +1,63 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
+body{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+h1{
+   
+    color:rgb(9, 9, 9);
+    margin-top: 300px;
+}
+table{
+    margin:auto;
+}
+th{
+    color: rgb(23, 20, 26);
+    font-size: 21px;
+}
+input{
+    font-size: 22px;
+    padding: 5px;
+    border-radius: 8px;
+}
+button{
+    min-width: 120px;
+    margin: 20px 10px;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(145, 219, 9);
+    font-weight: 600;
+}
+
+.Countdown{
+    display:flex;
+    justify-content: center;
+
+}
+.heading{
+    color: rgb(249, 249, 249);
+    font-size: 21px;
+    text-transform: uppercase;
+}
+.time{
+    background-color: rgb(1, 1, 1);
+    color: rgb(246, 243, 243);
+    font-size: 100px;
+    width: 150px;
+    margin: 0 10px;
+    border-radius: 8px;
+}
+.hello{
+   color: chartreuse;
+   margin-top: 210px;
+}
